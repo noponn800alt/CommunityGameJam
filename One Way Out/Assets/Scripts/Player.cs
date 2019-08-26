@@ -5,7 +5,7 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     readonly float runSpeed = 2f;
-    readonly float jumpHeight = 2f;
+    readonly float jumpHeight = 4f;
 
     float horizontal;
     float vertical;
@@ -14,7 +14,6 @@ public class Player : MonoBehaviour
     bool onVertical;
 
     bool grounded;
-    float yVelocity;
 
     Rigidbody body;
 
@@ -23,7 +22,6 @@ public class Player : MonoBehaviour
     {
         body = GetComponent<Rigidbody>();
 
-        yVelocity = 0;
         grounded = true;
     }
 

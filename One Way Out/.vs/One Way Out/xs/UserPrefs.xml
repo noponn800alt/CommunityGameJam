@@ -1,11 +1,15 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player.cs">
+﻿<Properties StartupConfiguration="{4B6853B9-C557-0C24-99C3-90D51DA83F75}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Exit.cs">
     <Files>
-      <File FileName="Assets/Scripts/Player.cs" Line="20" Column="14" />
+      <File FileName="Assets/Scripts/Player.cs" Line="27" Column="27" />
+      <File FileName="Assets/Scripts/UIManager.cs" Line="12" Column="51" />
+      <File FileName="Assets/Scripts/Exit.cs" Line="10" Column="1" />
+      <File FileName="Assets/Scripts/DialogueTrigger.cs" Line="10" Column="6" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
