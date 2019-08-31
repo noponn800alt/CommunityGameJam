@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class Exit : MonoBehaviour
 {
     Player player;
+    public ExitCounter exitCounter;
 
     private void OnCollisionEnter(Collision collision)
     {
